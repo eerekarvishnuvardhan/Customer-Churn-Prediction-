@@ -3,6 +3,7 @@
 The Customer Churn Prediction and Sales Dashboard is a data-driven analytics application that leverages Data Analytics and Machine Learning to analyze customer behavior, predict churn probability, and visualize sales trends.
 
 This system enables businesses to identify customers who are at risk of leaving and supports proactive retention strategies through actionable, insight-driven analysis.
+
 ----
 
 ## 🚀 Project Overview
