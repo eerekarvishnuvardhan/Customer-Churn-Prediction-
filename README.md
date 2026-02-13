@@ -15,6 +15,7 @@ Analyze customer behavior and engagement patterns
 Visualize sales performance and trends
 
 Deliver actionable business insights for decision-making
+
 ----
 
 ## 📊 Sales Analytics Dashboard
@@ -26,6 +27,7 @@ Customer segmentation insights
 Sales distribution and performance analysis
 
 Interactive charts and visualizations
+
 ----
 
 ## 🧠 Machine Learning Capabilities
@@ -35,6 +37,7 @@ Customer churn prediction using classification models
 Feature analysis to identify churn drivers
 
 Model-based probability scoring for customer retention
+
 -----
 
 ## 🛠 Technology Stack
